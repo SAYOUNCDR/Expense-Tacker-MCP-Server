@@ -28,7 +28,7 @@ Main features
 First of all install uv if you don't have it already globally using:
 
 ```batch
-pip install uvicorn
+pip install uv
 ```
 
 Then create and activate a virtual environment:
