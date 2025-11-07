@@ -2,9 +2,10 @@
 
 Lightweight MCP server for tracking personal expenses using FastMCP and SQLite. This repo provides a small, local MCP server you can run on your machine for quick experiments, demos, or as the basis for a remote deployment.
 
-Tags: expense-tracker, fastmcp, mcp, python, sqlite
 
----
+
+<img width="2544" height="1389" alt="Screenshot 2025-11-06 002756" src="https://github.com/user-attachments/assets/94ff4d44-2f7b-4953-a6d0-d6360f32f125" />
+
 
 ## What this is
 
