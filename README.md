@@ -7,7 +7,7 @@ Lightweight MCP server for tracking personal expenses using FastMCP and SQLite. 
 <img width="2544" height="1389" alt="Screenshot 2025-11-06 002756" src="https://github.com/user-attachments/assets/94ff4d44-2f7b-4953-a6d0-d6360f32f125" />
 
 
-## What this is
+## What this is - 
 
 - A minimal MCP server exposing a few tools to record and query expenses.
 - Stores data in a local SQLite database: `expenses.db` (created automatically).
